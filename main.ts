@@ -14,4 +14,3 @@ basic.forever(function() {
         basic.showString("B");
     }
 })
-
